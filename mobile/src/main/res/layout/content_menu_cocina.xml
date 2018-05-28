@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fpmes"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <ImageButton
+        android:id="@+id/btmesa1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView"
+        android:background="@drawable/botonmesa1" />
+
+    <ImageButton
+        android:id="@+id/btmesa2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/btmesa1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bbmesa2" />
+
+    <ImageButton
+        android:id="@+id/btmesa3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/textView"
+        android:background="@drawable/bbtmesa3" />
+
+    <Button
+        android:id="@+id/btcolor1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/btmesa1"
+        android:layout_marginTop="70dp"
+        android:layout_toEndOf="@+id/textView"
+        android:background="#f9a805"
+        android:text="PEDIDO"
+        android:textColor="#060606"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btcolor2"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/btcolor1"
+        android:layout_centerHorizontal="true"
+        android:background="#f9a805"
+        android:text="PEDIDO"
+        android:textColor="#040404"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btcolor3"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_alignEnd="@+id/btmesa3"
+        android:layout_alignTop="@+id/btcolor2"
+        android:layout_marginEnd="70dp"
+        android:background="#f9a805"
+        android:singleLine="false"
+        android:text="PEDIDO"
+        android:textAlignment="center"
+        android:textColor="#010101"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:typeface="normal" />
+
+</RelativeLayout>

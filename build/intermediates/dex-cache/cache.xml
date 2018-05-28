@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\6fe6c3dfaee9c103c87bf163cb5fe50cadaf31d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_db8cd232105798c76cf015c6865f635633496bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\4578289fd6ac99b21668e38734003d5b1d727422\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_41ea1d0c002509449ab32a76ab060984e952d49c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\d70149244ed0cc201a289b77965cf251beca7d2e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_8670879ba5e2a15eefa8f958f6ae4fa6d4e1870f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\98ef7616b6302ddcb8b0def3f984ba68cf2913ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_b31eeade7db4f592d8a71741a6c21b8486e3b152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\eabb930a3baace3bd81a3f3b5378d9fd3f2c9a01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_1073c3edff5752167afcb061918f140b44167caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\0af1870b5506e5d332389b4dba70078f63f0555e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_824a2e0ebfda3685f3ada5449616295d66c0e96c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\1028cc904fda742f9625fc38a73bba69233e6af4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_5b13683da34a6698bee97f1a273eb5969fa6e275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\6183831258ff8fecd880eefac91f21fcdab74c1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_dbbab63878c10c5d0ec35e3346c4b85291d9cd78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\6390f118aaa5a12743840a8db2e570302d64c389\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_3c95f8d5b204df3af9938fe9d26cec5f29c25fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\53cba689b74da3a10c3dad423480db732ee48456\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_aa18b80e9442df79c8879e77741954d488203a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\7c2647a985996b343ca14c72ed569016d04d11cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_6f0c01a02ae67dc302e4b6bc7b8860a83a8c5e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\e33c218724b1f5b0d8fa7ac3f25f833d77b32e13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_2b7215233e8409256faa3f321e0ac56d3204c4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\0efde0ca3827477b71317ffb364fdd3665ca4133\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_c34c792f302779e2778a1ebc4cfccaf6cb4a1d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\ebbcd2709df29431e535f7d56248770e8156f6ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_609f7aaa2a625df4c49773686f41cadbe32620a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\9a613c72d96eeba448c5ba22dd58e36da3bb013d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_17bdfd5839d008c791947320083f7626d30c003c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\98ef7616b6302ddcb8b0def3f984ba68cf2913ab\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_8b26883bcec7b6249ede0e400c374b16a41dcec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\344c9c4c7690bed91d94529e447abfbd48790805\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_aa15be9479f462b6c8ba4bf7a677176b6bec1c06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\c8d0dd473c67acbf4ba06811585fa2ec66186046\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_ce6a24263cdea20614cec1f7cd95844a10dfe910.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\00f31f2b788ec98ffdfc0797362a7789f7db6f63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_7be39a4e552ea8b34440ad7e37671baba5770aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\8f727831090ebe99712080005467a3ab662613d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_8adb9717e74f53dc3a500bf8b924291da23da690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\2bef5b4663f038b3e20a7bfb6cbfa428f5f71c9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_c149102a9de37dd2869f692565b20f83d8e18036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\9ddda719e13eb424c0c49eb069f469521bb12889\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_699ffc8ad0466d38186705329066dea92d6c50e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\baa26da58c2dba410ffe0e3824fae3af1180f8fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_e904bd02ed1c683647952d40ba2e6b0749c7192f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jennyandrea\.android\build-cache\13d6060a56bae024898020c87b8337d35918e307\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\build\intermediates\pre-dexed\debug\classes_78daafa12ccff0b47f77e5610a89f37be82177b8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,406 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:design:23.2.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.2.0.aar\44fd80853a04bcebb066863ddf17487b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-8.4.0.aar\cdd4a37c1ffecb8058b564fac47ede8d\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.4.0.aar\8ae463603cc28d8c3c52c0a6fc58a7de\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\ae8743bf476eebef6e2d3bed9bb1f37b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\588dcfea4db21866e26dfcd6a7ab08bb\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.4.0.aar\9819e529d3c947fe2c1add92998a786c\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-games-8.4.0.aar\35a72338ad16cf35d62fb2b907db7556\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.4.0.aar\5a69a461a0ed3664b0bbd1941b138bca\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.4.0.aar\17e4616e5e33ec7a4c2b957e370fd37b\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.4.0.aar\84ed4a019e0d1691dabdf9f258efebb5\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.4.0.aar\8dad743284d8f936129babc7335283c3\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\d8b2dc3777ca9cc5e502930ad81dc62d\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.4.0.aar\81e48de2062fc753e835db988078f6d4\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.4.0.aar\dd81f189caa724e2ff486bddb798ee56\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.4.0.aar\7f3d32d289342f4abd836332d07514a0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.4.0.aar\acdfea5878bb8b51f457ab9d636ca282\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.4.0.aar\0f5a3e9ce08d225ead6fada4bcbe9e5d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\9c961c34a804ae6246cf6f8fe5e523bb\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\9a9d079df8a9d4bd00316c602327a71f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7271ec9e05456c0309912ec53102fb9a\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:recyclerview-v7:23.2.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.0.aar\b82033aaec77396abc0cb6db764d1fc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.google.android.permission.PROVIDE_BACKGROUND
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:6:5-88
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:6:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:7:5-68
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:13:22-69
+application
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:15:5-56:19
+MERGED from [com.android.support:design:23.2.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.2.0.aar\44fd80853a04bcebb066863ddf17487b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.2.0.aar\44fd80853a04bcebb066863ddf17487b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-8.4.0.aar\cdd4a37c1ffecb8058b564fac47ede8d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-8.4.0.aar\cdd4a37c1ffecb8058b564fac47ede8d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.4.0.aar\8ae463603cc28d8c3c52c0a6fc58a7de\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.4.0.aar\8ae463603cc28d8c3c52c0a6fc58a7de\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\ae8743bf476eebef6e2d3bed9bb1f37b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\ae8743bf476eebef6e2d3bed9bb1f37b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\588dcfea4db21866e26dfcd6a7ab08bb\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\588dcfea4db21866e26dfcd6a7ab08bb\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.4.0.aar\9819e529d3c947fe2c1add92998a786c\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.4.0.aar\9819e529d3c947fe2c1add92998a786c\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-games-8.4.0.aar\35a72338ad16cf35d62fb2b907db7556\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-games-8.4.0.aar\35a72338ad16cf35d62fb2b907db7556\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.4.0.aar\5a69a461a0ed3664b0bbd1941b138bca\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.4.0.aar\5a69a461a0ed3664b0bbd1941b138bca\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.4.0.aar\17e4616e5e33ec7a4c2b957e370fd37b\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.4.0.aar\17e4616e5e33ec7a4c2b957e370fd37b\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.4.0.aar\8dad743284d8f936129babc7335283c3\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.4.0.aar\8dad743284d8f936129babc7335283c3\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\d8b2dc3777ca9cc5e502930ad81dc62d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\d8b2dc3777ca9cc5e502930ad81dc62d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.4.0.aar\81e48de2062fc753e835db988078f6d4\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.4.0.aar\81e48de2062fc753e835db988078f6d4\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.4.0.aar\dd81f189caa724e2ff486bddb798ee56\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.4.0.aar\dd81f189caa724e2ff486bddb798ee56\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.4.0.aar\7f3d32d289342f4abd836332d07514a0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.4.0.aar\7f3d32d289342f4abd836332d07514a0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.4.0.aar\acdfea5878bb8b51f457ab9d636ca282\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.4.0.aar\acdfea5878bb8b51f457ab9d636ca282\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.4.0.aar\0f5a3e9ce08d225ead6fada4bcbe9e5d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.4.0.aar\0f5a3e9ce08d225ead6fada4bcbe9e5d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\9c961c34a804ae6246cf6f8fe5e523bb\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\9c961c34a804ae6246cf6f8fe5e523bb\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7271ec9e05456c0309912ec53102fb9a\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7271ec9e05456c0309912ec53102fb9a\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:20:9-40
+activity#com.carta.dx.menucocina.MenuCocina
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:21:9-24:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:23:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:22:13-39
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:29:9-31:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7271ec9e05456c0309912ec53102fb9a\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7271ec9e05456c0309912ec53102fb9a\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:30:13-58
+activity#com.carta.dx.menucocina.pedido1
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:35:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:34:13-36
+activity#com.carta.dx.menucocina.Pedido2
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:37:9-40:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:39:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:38:13-36
+activity#com.carta.dx.menucocina.Pedido3
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:41:9-44:59
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:43:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:42:13-36
+activity#com.carta.dx.menucocina.Inicio
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:45:9-55:20
+	android:label
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:47:13-29
+	android:theme
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:46:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml:52:27-74
+uses-sdk
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.2.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.2.0.aar\44fd80853a04bcebb066863ddf17487b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\design-23.2.0.aar\44fd80853a04bcebb066863ddf17487b\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-8.4.0.aar\cdd4a37c1ffecb8058b564fac47ede8d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-8.4.0.aar\cdd4a37c1ffecb8058b564fac47ede8d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.4.0.aar\8ae463603cc28d8c3c52c0a6fc58a7de\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-cast-8.4.0.aar\8ae463603cc28d8c3c52c0a6fc58a7de\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\ae8743bf476eebef6e2d3bed9bb1f37b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\ae8743bf476eebef6e2d3bed9bb1f37b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4b60a7514f82f7a57de30702c5f1a262\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a4f8ad74d11d611dd061fcf8d88144d3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\4ec355f1f1d4861813fc5abf7ef59ad0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\588dcfea4db21866e26dfcd6a7ab08bb\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\588dcfea4db21866e26dfcd6a7ab08bb\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.4.0.aar\9819e529d3c947fe2c1add92998a786c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appstate-8.4.0.aar\9819e529d3c947fe2c1add92998a786c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-games-8.4.0.aar\35a72338ad16cf35d62fb2b907db7556\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-games-8.4.0.aar\35a72338ad16cf35d62fb2b907db7556\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.4.0.aar\5a69a461a0ed3664b0bbd1941b138bca\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-drive-8.4.0.aar\5a69a461a0ed3664b0bbd1941b138bca\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.4.0.aar\17e4616e5e33ec7a4c2b957e370fd37b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-fitness-8.4.0.aar\17e4616e5e33ec7a4c2b957e370fd37b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.4.0.aar\84ed4a019e0d1691dabdf9f258efebb5\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-wallet-8.4.0.aar\84ed4a019e0d1691dabdf9f258efebb5\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.4.0.aar\8dad743284d8f936129babc7335283c3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-identity-8.4.0.aar\8dad743284d8f936129babc7335283c3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\d8b2dc3777ca9cc5e502930ad81dc62d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\d8b2dc3777ca9cc5e502930ad81dc62d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.4.0.aar\81e48de2062fc753e835db988078f6d4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.4.0.aar\81e48de2062fc753e835db988078f6d4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.4.0.aar\dd81f189caa724e2ff486bddb798ee56\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-panorama-8.4.0.aar\dd81f189caa724e2ff486bddb798ee56\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.4.0.aar\7f3d32d289342f4abd836332d07514a0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-plus-8.4.0.aar\7f3d32d289342f4abd836332d07514a0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.4.0.aar\acdfea5878bb8b51f457ab9d636ca282\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-8.4.0.aar\acdfea5878bb8b51f457ab9d636ca282\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.4.0.aar\0f5a3e9ce08d225ead6fada4bcbe9e5d\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-vision-8.4.0.aar\0f5a3e9ce08d225ead6fada4bcbe9e5d\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\9c961c34a804ae6246cf6f8fe5e523bb\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-wearable-8.4.0.aar\9c961c34a804ae6246cf6f8fe5e523bb\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\9a9d079df8a9d4bd00316c602327a71f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\9a9d079df8a9d4bd00316c602327a71f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7271ec9e05456c0309912ec53102fb9a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\7271ec9e05456c0309912ec53102fb9a\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:23.2.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.0.aar\b82033aaec77396abc0cb6db764d1fc0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.0.aar\b82033aaec77396abc0cb6db764d1fc0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\5c840e8240e8631a91c2df3eb876d734\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7f9b0ea5d7075f6198493e1887428c3b\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jennyandrea\AndroidStudioProjects\MenuCocina\mobile\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.4.0.aar\4ea2048988fe0a6c13b1ae232c403f39\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.4.0.aar\81e48de2062fc753e835db988078f6d4\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-nearby-8.4.0.aar\81e48de2062fc753e835db988078f6d4\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-ads-8.4.0.aar\a409ef11deb1f9c66d32daf6eed54de6\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:22:17-48
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-8.4.0.aar\67ed583472574a1f39e01c9e7c1de3b8\AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-auth-8.4.0.aar\270507699c6eef3bac141c88f32e48c3\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-gcm-8.4.0.aar\b68504b6e556116fe919bd2172d8ef38\AndroidManifest.xml:21:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\2be9a1a068348d97e8726d35279d02a5\AndroidManifest.xml:24:8-31
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:34:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\jennyandrea\.gradle\caches\transforms-1\files-1.1\play-services-measurement-8.4.0.aar\f572f49cfb7840d78efbc666a6ce7bc5\AndroidManifest.xml:42:11-82
